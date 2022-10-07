@@ -76,4 +76,5 @@ Contact:
     Junhua Liu - junhual1@student.unimelb.edu.au
     Weiqi Hao - wvhao@student.unimelb.edu.au
     Zhenghan Zhang - zhenghanz1@student.unimelb.edu.au
-    Bo Pan - 
+    Bo Pan - pbp@student.unimelb.edu.au
+    Yanrong Zhang - yanrzhang@student.unimelb.edu.au
