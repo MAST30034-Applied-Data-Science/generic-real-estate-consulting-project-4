@@ -18,9 +18,10 @@ This projects should be generated in the following ORDER of notebooks:
 10. feature_predict_analysis.ipynb: this files demonstrates the relationship of the dataset generated in history_info
 11. base_feature_selection.ipynb: this file generates the top10 significant features and determines the most important feature
     for predicting house prices
-12. LSTM_predict.ipynb: this chapter is roughly divided into two parts, the first part uses a certain SA2 as an example to make 
-    anprediction, and the second part is to sort all SA2 after prediction. It returns the top10 growth_rate SA2 with suburb
+12. LSTM_predict.ipynb: this chapter is roughly divided into two parts, the first part uses a certain SA2 as an example to     make a prediction, and the second part is to sort all SA2 after prediction. It returns the top10 growth_rate SA2 with suburb
     names.
+13. growth_rate_pics.ipynb: this file visualises the map of suburbs' distribution with top 10 predicted growth rate
+14. liveable_suburbs_pics.ipynb: this file visualises the map of most liveable and affordable suburbs' distribution 
 
 
 
